@@ -58,9 +58,9 @@ Full CRUD system with authentication and order management.
 Responsive personal portfolio focused on UI/UX and performance.  
 **Tech:** React, Next.js, Tailwind CSS
 
-### 🔹 MERN Stack Application
-Modern full-stack application with real-time features.  
-**Tech:** MongoDB, Express, React, Node.js
+### 🔹 Ecommerce Application
+Modern full-stack Ecommerce Application with real time features.  
+**Tech:** MySQL, Express, React, Node.js
 
 ---
 
