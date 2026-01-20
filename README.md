@@ -1,25 +1,34 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Samyog Khadka</h1>
-<h3 align="center">Full Stack Developer & BCA Student</h3>
+<h3 align="center">Full Stack Developer | BCA Student</h3>
 
 <!-- BADGES -->
 <p align="center">
   <a href="https://github.com/samyog7901">
     <img src="https://img.shields.io/github/followers/samyog7901?label=Follow&style=social" />
   </a>
-  <img src="https://img.shields.io/badge/🌐 Portfolio-Site-Live-0078D4?style=flat&logo=Vercel&logoColor=white">
+  <a href="https://samyog-khadka-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0078D4?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://github.com/samyog7901/samyog7901/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Samyog7901/Samyog7901/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Samyog7901/Samyog7901/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/Samyog7901/Samyog7901/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I'm a Full Stack Developer and a BCA student at **SchEMS College (Pokhara University)**.  
-I'm passionate about building scalable, clean, and efficient applications that solve real-world problems.
+I’m a **Full Stack Developer** and **BCA student** at **SchEMS College (Pokhara University)**.  
+I enjoy building clean, scalable, and practical web applications while continuously improving my problem-solving skills.
 
 ---
 
@@ -35,35 +44,32 @@ Node.js • Express • Python • REST APIs
 MongoDB • PostgreSQL • MySQL
 
 ### ⚙️ Tools
-Git • Docker • Postman • VS Code
+Git • Docker • Postman • VS Code • IntelliJ IDEA
 
 ---
 
-## 📂 Projects Highlights
+## 📂 Project Highlights
 
-### 🔹 **Online Bookshop System**
-A full CRUD backend with user authentication and order handling.  
+### 🔹 Online Bookshop System
+Full CRUD system with authentication and order management.  
 **Tech:** Node.js, Express, MongoDB
 
-### 🔹 **Web Development Portfolio**
-Focus on UI/UX and modern responsive design.  
+### 🔹 Portfolio Website
+Responsive personal portfolio focused on UI/UX and performance.  
 **Tech:** React, Next.js, Tailwind CSS
 
-### 🔹 **MERN Stack Project**
-Modern full-stack app with real-time features.  
+### 🔹 MERN Stack Application
+Modern full-stack application with real-time features.  
 **Tech:** MongoDB, Express, React, Node.js
-
-*(Feel free to add links to live demos and GitHub repos)*
 
 ---
 
 ## 📫 Get in Touch
-
 📧 **Email:** samyogkhadka247@gmail.com  
-🌍 **Portfolio:** https://samyog-khadka-portfolio.vercel.app/
+🌍 **Portfolio:** https://samyog-khadka-portfolio.vercel.app/  
 
 ---
 
 <div align="center">
-  <sub>Crafted with ❤️ by Samyog Khadka</sub>
+  <sub>Built with consistency and curiosity 🚀</sub>
 </div>
