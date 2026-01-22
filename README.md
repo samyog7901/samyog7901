@@ -7,7 +7,7 @@
   <a href="https://github.com/samyog7901">
     <img src="https://img.shields.io/github/followers/samyog7901?label=Follow&style=social" />
   </a>
-  <a href="https://samyog-khadka-portfolio.vercel.app/" target="_blank">
+  <a href="https://www.samyogkhadka.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-0078D4?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
